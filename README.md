@@ -31,4 +31,4 @@ Incorporate advanced ensembles like RandomForest or GradientBoosting for better 
 
 
 ##### Contact and Further Information
-Send me a message for furtuther information 
+Send me a message for furtuther information.
