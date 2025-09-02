@@ -25,9 +25,9 @@ Incorporate advanced ensembles like RandomForest or GradientBoosting for better 
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Link to notebook](Employee Attrition.ipynb)
+- [Link to dataset](data/WA_Fn-UseC_-HR-Employee-Attrition.csv)
+- [Link to images](images)
 
 
 ##### Contact and Further Information
